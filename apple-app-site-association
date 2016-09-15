@@ -5,7 +5,7 @@
       {
         "appID": "AJNBAPQFF4.com.hotoption",
         "paths": [
-          "/user/confirm-email"
+          "*"
         ]
       }
     ]
